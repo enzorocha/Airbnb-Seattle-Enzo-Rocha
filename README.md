@@ -1,5 +1,5 @@
 # Airbnb Seattle 
-A simple analysis of Airbnb Seattle hosts, to assist in the elaboration of the article on the medium "Staying with Python" - done by Enzo Rocha. On the jupyter notebook, I prepared the base and generated graphics to draw some questioning conclusions that emerged during the analysis.
+A simple analysis of Airbnb Seattle hosts, to assist in the elaboration of the article on the medium https://enzo-santanarocha.medium.com/se-hospedando-com-o-python-2ea7208dfd7a- done by Enzo Rocha. On the jupyter notebook, I prepared the base and generated graphics to draw some questioning conclusions that emerged during the analysis.
 
 At first I imported the necessary libraries:
 numpy
