@@ -1,17 +1,17 @@
 # Airbnb Seattle 
- Uma analise simples dos hosts do Airbnb Seattle, para o auxílo da elaboração do artigo no medium "Se hospedando com o Python" - feito por Enzo Rocha. No notebook do jupyter, preparei a base e gerei gráficos para tirar algumas conclusões de questionamento que surgiram durante a análise.
+A simple analysis of Airbnb Seattle hosts, to assist in the elaboration of the article on the medium "Staying with Python" - done by Enzo Rocha. On the jupyter notebook, I prepared the base and generated graphics to draw some questioning conclusions that emerged during the analysis.
 
-A principio importei as bibliotécas necessárias :
+At first I imported the necessary libraries:
 numpy
 pandas
 matplotlib
 seaborn
 
-Com isso, importei as bases. Com as bases importadas, eu já pude olhar e me familiarizar com as informações oferecidas;
-A princípio, só usei a base de listings, porém existem outras, como a calendar e a reviews.
+With that, I imported the bases. With the imported bases, I was able to look and familiarize myself with the information offered;
+At first, I only used the base of listings, but there are others, such as calendar and reviews.
 
-1° pergunta: Qual foi o crescimento de hosts desde a fundação do aplicativo(2008)?
+1st question: What has been the growth of hosts since the foundation of the application (2008)?
 
-2° pergunta: Como que os tipos de propriedades se distribuem pelas regiões?
+2nd question: How are the types of properties distributed across regions?
 
-3° O quão importante é a comunição para o Score médio ?
+3 ° How important is communication for the average score?
