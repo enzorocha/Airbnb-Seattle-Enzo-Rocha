@@ -8,6 +8,7 @@ matplotlib
 seaborn
 
 Com isso, importei as bases. Com as bases importadas, eu já pude olhar e me familiarizar com as informações oferecidas;
+A princípio, só usei a base de listings, porém existem outras, como a calendar e a reviews.
 
 1° pergunta: Qual foi o crescimento de hosts desde a fundação do aplicativo(2008)?
 
