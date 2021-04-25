@@ -1,4 +1,5 @@
 # Airbnb Seattle 
+Author: Enzo Rocha  linkedin: https://www.linkedin.com/in/enzo-de-almeida-santana-rocha-24a32a10b/ 
 
 ## 1- Business Understanding
 With the launch of Airbnb in 2008, there has been a huge growth in hosts over the years. The Airbnb Seattle dataset is a dataset that demonstrates some data collected from the launch in 2008 until the year 2016. This dataset is present in the kaggle: https://www.kaggle.com/airbnb/seattle/data .
